@@ -1,0 +1,168 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/ecegrid/a/mg268/Desktop/single cycle
+valu
+Z1 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+Z2 DXx4 work 13 cpu_types_pkg 0 22 ]QV^3KDUUSk7Y9J3nBiLh0
+Z3 !s110 1477425562
+!i10b 1
+!s100 ;hKJ7>IM2m?lS@WdT9MV72
+IU>P3[P:6cjQeSX7`NQH1H1
+Z4 V`JN@9S9cnhjKRR_L]QIcM3
+!s105 alu_sv_unit
+S1
+R0
+w1473883972
+8source/alu.sv
+Fsource/alu.sv
+L0 4
+Z5 OL;L;10.3b;59
+r1
+!s85 0
+31
+!s108 1477425562.633038
+!s107 include/alu_if.vh|include/cpu_types_pkg.vh|source/alu.sv|
+!s90 +acc|-sv12compat|-mfcu|-lint|+incdir+include|source/alu.sv|
+!i113 1
+Z6 o+acc -sv12compat -mfcu -lint -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z7 !s92 +acc -sv12compat -mfcu -lint +incdir+include -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z8 tShow_source 1 ScalarOpts 1 Show_Lint 1 Show_BadOptionWarning 1 Svlog 1 FsmImplicitTrans 1
+Yalu_if
+R1
+R2
+R3
+!i10b 1
+!s100 HcET]BMQ<jN1cgT8YEhTj0
+IzTYTkK?PMoA=<KRVNF1Rd2
+R4
+!s105 alu_if_vh_unit
+S1
+R0
+w1473802166
+8include/alu_if.vh
+Finclude/alu_if.vh
+L0 6
+R5
+r1
+!s85 0
+31
+!s108 1477425562.761501
+!s107 include/cpu_types_pkg.vh|include/alu_if.vh|
+!s90 +acc|-sv12compat|-mfcu|-lint|+incdir+include|include/alu_if.vh|
+!i113 1
+R6
+R7
+R8
+Ycache_control_if
+R1
+R2
+R3
+!i10b 1
+!s100 TOL:>`^bYT_=2^NzXOaD90
+IlYVWn2S8_hW0YSKUZEEHK2
+R4
+!s105 cache_control_if_vh_unit
+S1
+R0
+w1474387898
+8include/cache_control_if.vh
+Finclude/cache_control_if.vh
+L0 25
+R5
+r1
+!s85 0
+31
+!s108 1477425562.884475
+!s107 include/caches_if.vh|include/cpu_types_pkg.vh|include/cache_control_if.vh|
+!s90 +acc|-sv12compat|-mfcu|-lint|+incdir+include|include/cache_control_if.vh|
+!i113 1
+R6
+R7
+R8
+Ycaches_if
+R1
+R2
+Z9 !s110 1477425563
+!i10b 1
+!s100 6G7_dBjLPc]OlVhUPGao]2
+I[Oj7M<T_7:6WE<defL5Mh3
+R4
+Z10 !s105 caches_sv_unit
+S1
+R0
+Z11 w1474398245
+Finclude/caches_if.vh
+Z12 8source/caches.sv
+Z13 Fsource/caches.sv
+L0 18
+R5
+r1
+!s85 0
+31
+Z14 !s108 1477425562.994154
+Z15 !s107 include/caches_if.vh|include/cpu_types_pkg.vh|include/datapath_cache_if.vh|source/caches.sv|
+Z16 !s90 +acc|-sv12compat|-mfcu|-lint|+incdir+include|source/caches.sv|
+!i113 1
+R6
+R7
+R8
+Xcpu_types_pkg
+R1
+R9
+!i10b 1
+!s100 SMSe3nVL3JA;n2iA?1FBk1
+I]QV^3KDUUSk7Y9J3nBiLh0
+V]QV^3KDUUSk7Y9J3nBiLh0
+S1
+R0
+R11
+Finclude/cpu_types_pkg.vh
+Z17 Finclude/datapath_cache_if.vh
+R12
+R13
+L0 9
+R5
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R6
+R7
+R8
+Ydatapath_cache_if
+R1
+R2
+R9
+!i10b 1
+!s100 O?jWaOzj75`B[<jLkD21`1
+IWF1P3H[B7]8@ehDU607Ym0
+R4
+R10
+S1
+R0
+R11
+R17
+R12
+R13
+L0 13
+R5
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R6
+R7
+R8
